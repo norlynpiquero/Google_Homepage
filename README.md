@@ -1,1 +1,2 @@
-# Google_Homepage
+# Google Homepage
+This is fully-responsive Google Homepage
